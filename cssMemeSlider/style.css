@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.content {
+    width: 100%;
+}
+
+.content .slider-img {
+    display: flex;
+}
